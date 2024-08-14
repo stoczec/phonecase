@@ -10,3 +10,5 @@ Used npm packages:
 - react-dom-confetti
   // confetti explosions
   - file: DesignPreview.tsx
+- stripe
+  // Payment provider
