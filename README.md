@@ -1,9 +1,9 @@
 <h1>E-Commerce Store “CaseLizard”</h1>
+<p> E-commerce website where customers can upload a photo or image to create a custom phone case. </p>
 
 <div>
-<img align="right" src="https://github.com/user-attachments/assets/6e137b99-48cc-46e0-8105-abb948cdbc02" alt="Herd" style="width: 50%;">
+<img src="https://github.com/user-attachments/assets/6e137b99-48cc-46e0-8105-abb948cdbc02" alt="Herd" style="width: 100%;">
 
-<p align="left">E-commerce website where customers can upload a photo or image to create a custom phone case.</p>
 
 <h3>Key Features</h3>
 <ul>
