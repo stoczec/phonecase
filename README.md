@@ -1,14 +1,29 @@
-Run App
+<h1>E-Commerce Store “CaseLizard”</h1>
 
-- npm run dev
+<div>
+<img align="right" src="https://github.com/user-attachments/assets/6e137b99-48cc-46e0-8105-abb948cdbc02" alt="Herd" style="width: 50%;">
 
-Used npm packages:
+<p align="left">E-commerce website where customers can upload a photo or image to create a custom phone case.</p>
 
-- @tanstack/rect-query
-  // Hooks for fetching, caching and updating asynchronous data in React
-  - file: Providers.tsx
-- react-dom-confetti
-  // confetti explosions
-  - file: DesignPreview.tsx
-- stripe
-  // Payment provider
+<h3>Key Features</h3>
+<ul>
+<li> Complete shop built </li>
+<li> Drag-and-drop file uploads </li>
+<li> Modern UI </li>
+</ul>
+
+<h3>Technologies Used</h3>
+<ul>
+<li>Frontend Framework: Next.js ⚛️</li>
+<li>Type Checking: TypeScript 📝</li>
+<li>Styling: Tailwind CSS 🎨</li>
+<li>UI Components: Shadcn/ui 🧩</li>
+<li>Icons: lucide ☀️</li>
+<li>ORM: Prisma 🗂️</li>
+<li>File Uploads: Uploadthing 📤</li>
+<li>Schema Validation: Zod 🔒</li>
+</ul>
+
+<h3>Link to the project</h3>
+<link>https://phonecase-zeta.vercel.app/</link>
+</div>
